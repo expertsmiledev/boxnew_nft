@@ -1,0 +1,20 @@
+{
+    "require": {
+        "kornrunner/keccak": "^1.1",
+        "simplito/elliptic-php": "^1.0",
+        "google/apiclient": "^2.0",
+        "guzzlehttp/guzzle": "^7.4",
+        "google/recaptcha": "^1.2",
+        "mailgun/mailgun-php": "^3.5",
+        "symfony/http-client": "^5.4",
+        "nyholm/psr7": "^1.5"
+    },
+    "config": {
+        "platform": {
+            "php": "7.3"
+        },
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}

@@ -1,0 +1,7 @@
+/core/settings/*.php
+/public/uploads/
+/nbproject/
+/.htaccess
+/ssl/
+/node_modules/
+/vendor
